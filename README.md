@@ -7,7 +7,7 @@
 ***!!WARNING!!***
 - When you start playing the game, the sound effects are very loud, please turn them down using the volume mixer on your computer.
 
-As there are quite a few files within this repisitory it may be confusing as to how to start the game. 
+As there are quite a few files within this repository it may be confusing as to how to start the game. 
 In order to run the game you need to follow these steps:
 
 1. You need to download this entire repisitory as a zip file
@@ -25,4 +25,6 @@ In order to run the game you need to follow these steps:
 - The number in the centre will contain your highest score, and will be updated whenever you play again
 - The images of the space ship on the left refers to the lives left
 
-Thank you for trying out my first project. 
+- To access the images and sound effects used in this project, they can be found in their respective folders within the repository.  
+- 
+Thank you for trying out my first project! 
