@@ -26,5 +26,5 @@ In order to run the game you need to follow these steps:
 - The images of the space ship on the left refers to the lives left
 
 - To access the images and sound effects used in this project, they can be found in their respective folders within the repository.  
-- 
+
 Thank you for trying out my first project! 
