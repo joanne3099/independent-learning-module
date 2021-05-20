@@ -24,3 +24,5 @@ In order to run the game you need to follow these steps:
 
 - The number in the centre will contain your highest score, and will be updated whenever you play again
 - The images of the space ship on the left refers to the lives left
+
+Thank you for trying out my first project. 
