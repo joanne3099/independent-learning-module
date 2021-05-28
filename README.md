@@ -10,9 +10,9 @@
 As there are quite a few files within this repository it may be confusing as to how to start the game. 
 In order to run the game you need to follow these steps:
 
-1. You need to download this entire repisitory as a zip file
+1. You need to download this entire repository as a zip file, which can be located above the repository in the green box called 'code'. Click on the last option to 'Download ZIP file'. 
 2. Unzip the contents into a folder of your choosing
-3. Import the folder into a Python IDE, such as Visual Studio Code
+3. Import the folder into a Python IDE, such as Visual Studio Code. The IDE is a Intergrated Development Enviroment, if you do not have one of these, you can download them online to install on your computer. 
 4. Once you have done that, you need to open the file called 'alien_invasion.py'
 5. Then run that file within the IDE and that should open the pygame interface.
 6. It will come up with a 'PLAY' button which you will need to click 
