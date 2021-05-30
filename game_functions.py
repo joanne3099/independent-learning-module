@@ -1,3 +1,4 @@
+# these are the functions for the game and is called to the main file, alieninvasion.py 'gf'
 import sys
 # Pauses the game
 from time import sleep
@@ -44,7 +45,7 @@ def check_events(ai_settings, screen, stats, sb, play_button, ship,
     for event in pygame.event.get():
         if event.type == pygame.QUIT:
             sys.exit()
-        # PRESSING THE KEY, MOVING BECOMES TRUE, RELEASING == FALSE
+        # PRESSING THE KEY, MOVING == TRUE, RELEASING THE KEY == FALSE
         elif event.type == pygame.KEYDOWN:
             check_keydown_events(event, ai_settings, screen, ship, bullets)
         elif event.type == pygame.KEYUP:
