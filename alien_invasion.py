@@ -1,3 +1,4 @@
+# this is the main file to run the game
 import pygame
 # contains the functionality to run a game
 from pygame.sprite import Group
@@ -44,17 +45,17 @@ def run_game():
         # Refracted code, now in different programs.
         gf.check_events(ai_settings, screen, stats, sb, play_button, ship,
                         aliens, bullets)
-
+        # if the game is active, then update these settings to the screen and update the screen
         if stats.game_active:
             ship.update()
             gf.update_bullets(ai_settings, screen, stats, sb,
                               ship, aliens, bullets)
             gf.update_aliens(ai_settings, screen, stats, sb, ship, aliens,
                              bullets)
-        # Needed to indent it for it to work :')
+        # very important to indent this so that it would work 
         gf.update_screen(ai_settings, screen, stats, sb, ship, aliens, bullets,
                          play_button)
 
 
-# Calling this runs the game
+# Calling this function runs the game
 run_game()
