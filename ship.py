@@ -1,6 +1,7 @@
 import pygame
 from pygame.sprite import Sprite
-
+# this is so that you can manipulate the images on the screen
+# the rect. refers to rectangular coordinates, referring to pixels essentially
 
 class Ship(Sprite):
 
